@@ -27,6 +27,8 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: <ENVIRONMENTURL>
+  CLIENT_ID: <APPID>
+  TENANT_ID: <TENANT ID>
   USERNAME: <USERNAME>
 
 permissions:
