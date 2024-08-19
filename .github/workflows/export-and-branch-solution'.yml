@@ -26,10 +26,10 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: <ENVIRONMENTURL>
-  CLIENT_ID: <APPID>
-  TENANT_ID: <TENANT ID>
-  USERNAME: <USERNAME>
+  ENVIRONMENT_URL: https://org4178841a.crm4.dynamics.com/
+  CLIENT_ID: 5690f999-f149-4b9f-9e0e-528b0ab94cdb
+  TENANT_ID: 2bb82c64-2eb1-43f7-8862-fdc1d2333b50
+  USERNAME: bmhemanthreddy@kone.com
 
 permissions:
   contents: write
